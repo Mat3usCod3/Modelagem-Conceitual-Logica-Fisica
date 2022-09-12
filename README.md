@@ -6,3 +6,6 @@ em fazer o controle de dados como, datas e horários das alocações dos reboque
 Quando um reboque da empresa recebia uma infração, ocasionada por um
 cliente, a empresa perdia muito tempo conferindo documentos feitos a mão, com intuito de descobrir qual, dentre todos os clientes, possivelmente estaria em posse do reboque no intervalo de dia e hora na data da autuação. Depois da implementação do banco de dados, a empresa simplesmente consulta as informações desejadas no sistema.
 </p>
+
++ Como o bd está organizado...
++ Como as informações do bd se relacionan entre si...
