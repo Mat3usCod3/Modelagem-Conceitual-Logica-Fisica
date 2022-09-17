@@ -12,10 +12,14 @@ As informações foram divididas em 3 tabelas que se relacionam entre si por mei
 
 + Tabela **Cliente**
 
-Temos todas informações pessoias do cliente: Nome, registro geral, cpf, numero habilitação.
+Temos todas informações pessoais do cliente: Nome, registro geral, cpf, numero habilitação.
 
 + Tabela **Endereço Cliente**
 
+Informações sobre o endereço do cliente: Rua, bairro, cidade, estado.
+
 + Tabela **Fato Alocação**
+
+Informações sobre a alocação: Data e hora da alocação, data e hora da entrega, reboque utilizado.
 
 
