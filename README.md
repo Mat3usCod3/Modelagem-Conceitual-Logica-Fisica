@@ -18,15 +18,15 @@ As informações foram divididas em 3 tabelas que se relacionam entre si por mei
 ### Informações existentes em cada tabela
 
 
-+ Tabela **Cliente** 🙎‍♂️
++ **Cliente** 🙎‍♂️
 
 Informações pessoais do cliente: Nome, registro geral, cpf, numero habilitação.
 
-+ Tabela **Endereço-Cliente** 🏡
++ **Endereço-Cliente** 🏡
 
 Informações sobre o endereço do cliente: Rua, bairro, cidade, estado.
 
-+ Tabela **Fato-Alocação** 🕘
++ **Fato-Alocação** 🕘
 
 Informações sobre à alocação: Data e hora da alocação, data e hora da entrega, reboque utilizado.
 
