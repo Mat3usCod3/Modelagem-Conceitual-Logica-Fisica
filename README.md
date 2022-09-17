@@ -10,6 +10,14 @@ cliente, a empresa perdia muito tempo conferindo documentos feitos à mão com i
 ### Relacionamentos e organização das informações
 As informações foram divididas em 3 tabelas que se relacionam entre si por meio do campo `id`, presente na tabela principal nomeada de **Cliente**. O código do cliente é o `id` da tabela **Cliente**.
 
+<p align="center">
+  <img src="https://github.com/Mat3usCod3/Modelagem-Conceitual-Logica-Fisica/blob/main/Flowchart.png?raw=true" width="600" height="400" />
+</p>
+
+
+### Informações existentes em cada tabela
+
+
 + Tabela **Cliente** 🙎‍♂️
 
 Informações pessoais do cliente: Nome, registro geral, cpf, numero habilitação.
@@ -22,6 +30,4 @@ Informações sobre o endereço do cliente: Rua, bairro, cidade, estado.
 
 Informações sobre à alocação: Data e hora da alocação, data e hora da entrega, reboque utilizado.
 
-<p align="center">
-  <img src="http://some_place.com/image.png" />
-</p>
+
