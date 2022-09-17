@@ -22,4 +22,6 @@ Informações sobre o endereço do cliente: Rua, bairro, cidade, estado.
 
 Informações sobre à alocação: Data e hora da alocação, data e hora da entrega, reboque utilizado.
 
-
+<p align="center">
+  <img src="http://some_place.com/image.png" />
+</p>
