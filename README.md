@@ -9,10 +9,11 @@ cliente, a empresa perdia muito tempo conferindo documentos feitos à mão, com 
 ### Relacionamentos e organização das informações
 As informações foram divididas em 3 tabelas que se relacionam entre si por meio do campo `id`, presente na tabela principal nomeada de **Cliente**. O código do cliente é o `id` da tabela **Cliente**.
 
+<br>
 <p align="center">
   <img src="https://github.com/Mat3usCod3/Modelagem-Conceitual-Logica-Fisica/blob/main/Flowchart2.png?raw=true" width="350" height="280" />
 </p>
-
+</br>
 
 ### Informações existentes em cada tabela
 
