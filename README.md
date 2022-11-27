@@ -16,11 +16,11 @@ graph TD;
 
 ### 🔎 Informações existentes em cada tabela:
 
-+ **Cliente** 🙎‍♂️
++ **Dados-Cliente** 🙎‍♂️
 
 Informações pessoais do cliente: Nome, registro geral, cpf, numero habilitação.
 
-+ **Endereço-Cliente** 🏡
++ **Dados-Endereço** 🏡
 
 Informações sobre o endereço do cliente: Rua, bairro, cidade, estado.
 
