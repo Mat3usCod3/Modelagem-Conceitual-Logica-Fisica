@@ -26,7 +26,7 @@ Informações sobre o endereço do cliente: Rua, bairro, cidade, estado.
 
 + **Fato** 🕘
 
-Informações sobre à alocação: Data e hora da alocação, data e hora da entrega, reboque utilizado.
+Informações relativas ao aluguel do reboque: Data e hora da alocação, data e hora da entrega, reboque utilizado.
 
 
 
