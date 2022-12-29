@@ -1,4 +1,4 @@
-# Modelagem: Conceitual | Lógica | Física
+# Modelagem-Empresa
 
 ### Projeto banco de dados - Desenvolvido para uma empresa que trabalha com fabricação e alocação de reboques para veículos.
 A necessidade de implementação de um banco de dados, surgiu do interesse da empresa
