@@ -1,9 +1,12 @@
-# Modelagem e criação banco de dados
+# Modelagem e criação de banco de dados
 
-### Projeto banco de dados
-Empresa fazer o controle de dados, como, datas e horários das alocações. Quando um reboque da empresa recebia uma infração, ocasionada por um cliente, a empresa perdia muito tempo conferindo documentos feitos à mão, com a finalidade de descobrir qual, entre vários de seus clientes, possivelmente, estaria em posse do reboque, no intervalo de dia e hora da autuação. Com a implementação do banco de dados, a empresa simplesmente consulta as informações desejadas no sistema. 
+### Projeto banco de dados desenvolvido para empresa que aloca e produz reboques para veículos.
 
-+ A implementação do projeto foi feita utilizando banco de dados **Mysql**.
+A empresa desejou ter um controle maior dos clientes e também das datas e horários das alocações de seus reboques.
+
+Quando um determinado reboque da empresa recebia uma notificação de infração, ocasionada por algum cliente, a empresa perdia muito tempo conferindo documentos feitos à mão na tentativa de descobrir qual, entre vários de seus clientes, possivelmente, estaria em posse do reboque, no intervalo de dia e hora da autuação.
+
+Por meio da implementação do banco de dados, a empresa faz uma simples consulta para obter às informações desejadas.
 
 ```mermaid
 graph TD;
