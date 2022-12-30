@@ -1,4 +1,4 @@
-# Modelagem e criação de banco de dados
+# Modelagem e implementação do banco de dados
 
 ### Projeto banco de dados desenvolvido para empresa que aloca e produz reboques para veículos.
 
